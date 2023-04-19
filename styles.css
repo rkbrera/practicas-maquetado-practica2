@@ -1,0 +1,80 @@
+.header-view-port {
+    width: 100vw;
+    height: 20vh;
+    background-color: chartreuse;
+    margin-left: -6px;
+    color: orchid;
+}
+
+.box-nav {
+    width: 96vw;
+    height: 90px;
+    background-color: rgb(100, 20, 0);
+    margin: 15px;
+    margin-top: 7px;
+}
+
+.aside-box-left {
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+    margin: 20px;
+    background-color: rgb(233, 139, 15);
+    margin-left: -6px;
+}
+
+.aside-box-right {
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(233, 131, 15);
+    margin-left: 1130px;
+    margin-right: 500px;
+}
+
+.main-box{
+    width: 500px;
+    height:450px;
+    background-color: rgb(233, 15, 15);
+    margin-left: 400px;
+    margin-right: 500px;
+    margin-top: 30px;
+}
+
+.post-1{
+    width: 300px;
+    height: 50px;
+    background-color: aliceblue;
+    border-color: rgb(211, 10, 10);
+    border: 5px;
+    margin: 10px;
+    margin-left: 90px; 
+}
+
+.post-2{
+    width: 300px;
+    height: 50px;
+    background-color: aliceblue;
+    border-color: rgb(211, 10, 10);
+    border: 5px;
+    margin: 20px;
+    margin-left: 90px;
+}
+
+.post-3{
+    width: 300px;
+    height: 50px;
+    background-color: aliceblue;
+    border-color: rgb(211, 10, 10);
+    border: 5px;
+    margin: 20px;
+    margin-left: 90px;
+}
+
+.footer {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(226, 43, 134);
+    margin-left: -6px;
+}
